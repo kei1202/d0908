@@ -25,7 +25,7 @@
 	System.out.println("아이디 : "+id+"  패스워드 : "+pass+"  이름 : "+name);
 %>
 <h1>아이디 : <%=id %></h1>
-<h1>비밀번호 : <%=pass %></h1>
+<h1>비밀번호 : <%=passwd %></h1>
 <h1>이름 : <%=name %></h1>
 </body>
 </html>

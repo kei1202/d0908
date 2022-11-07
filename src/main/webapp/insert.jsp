@@ -12,7 +12,7 @@
 <p> 비밀번호 : <input type="password" name="pass">
 <p> 이름 : <input type="text" name="name">
 <p><input type=submit value="전송">
-<p><input type=reset value="취소">
+<input type=reset value="취소">
 </form>
 </body>
 </html>
